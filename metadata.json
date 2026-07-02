@@ -1,0 +1,6 @@
+{
+  "name": "Dominando el Business Model Canvas",
+  "description": "Aplicación interactiva y educativa para aprender, diseñar y validar modelos de negocio con notas adhesivas virtuales y asistencia de Inteligencia Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
